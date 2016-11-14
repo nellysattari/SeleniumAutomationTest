@@ -1,0 +1,14 @@
+C:\Applications\GiftCard\branch\Sprint 113\GiftCards.Online\GiftCards.Online.Web.AutomationTest\bin\Debug\GiftCards.Online.Web.AutomationTest.exe.config
+C:\Applications\GiftCard\branch\Sprint 113\GiftCards.Online\GiftCards.Online.Web.AutomationTest\bin\Debug\GiftCards.Online.Web.AutomationTest.exe
+C:\Applications\GiftCard\branch\Sprint 113\GiftCards.Online\GiftCards.Online.Web.AutomationTest\bin\Debug\GiftCards.Online.Web.AutomationTest.pdb
+C:\Applications\GiftCard\branch\Sprint 113\GiftCards.Online\GiftCards.Online.Web.AutomationTest\bin\Debug\WebDriver.dll
+C:\Applications\GiftCard\branch\Sprint 113\GiftCards.Online\GiftCards.Online.Web.AutomationTest\bin\Debug\WebDriver.xml
+C:\Applications\GiftCard\branch\Sprint 113\GiftCards.Online\GiftCards.Online.Web.AutomationTest\obj\Debug\GiftCards.Online.Web.AutomationTest.csprojResolveAssemblyReference.cache
+C:\Applications\GiftCard\branch\Sprint 113\GiftCards.Online\GiftCards.Online.Web.AutomationTest\obj\Debug\GiftCards.Online.Web.AutomationTest.exe
+C:\Applications\GiftCard\branch\Sprint 113\GiftCards.Online\GiftCards.Online.Web.AutomationTest\obj\Debug\GiftCards.Online.Web.AutomationTest.pdb
+C:\Applications\GiftCard\branch\Sprint 113\GiftCards.Online\GiftCards.Online.Web.AutomationTest\bin\Debug\WebDriver.Support.dll
+C:\Applications\GiftCard\branch\Sprint 113\GiftCards.Online\GiftCards.Online.Web.AutomationTest\bin\Debug\WebDriver.Support.xml
+C:\Applications\GiftCard\branch\Sprint 113\GiftCards.Online\GiftCards.Online.Web.AutomationTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\source\AutomationTestSelenium\SeleniumFramework\bin\Debug\GiftCards.Online.Web.AutomationTest.exe.config
+C:\source\AutomationTestSelenium\SeleniumFramework\obj\Debug\GiftCards.Online.Web.AutomationTest.exe
+C:\source\AutomationTestSelenium\SeleniumFramework\obj\Debug\GiftCards.Online.Web.AutomationTest.pdb

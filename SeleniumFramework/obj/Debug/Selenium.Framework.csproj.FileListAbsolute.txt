@@ -1,0 +1,10 @@
+C:\source\AutomationTestSelenium\SeleniumFramework\bin\Debug\GiftCards.Online.Web.AutomationTest.dll.config
+C:\source\AutomationTestSelenium\SeleniumFramework\bin\Debug\GiftCards.Online.Web.AutomationTest.dll
+C:\source\AutomationTestSelenium\SeleniumFramework\bin\Debug\GiftCards.Online.Web.AutomationTest.pdb
+C:\source\AutomationTestSelenium\SeleniumFramework\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\source\AutomationTestSelenium\SeleniumFramework\bin\Debug\WebDriver.dll
+C:\source\AutomationTestSelenium\SeleniumFramework\bin\Debug\WebDriver.Support.dll
+C:\source\AutomationTestSelenium\SeleniumFramework\bin\Debug\WebDriver.xml
+C:\source\AutomationTestSelenium\SeleniumFramework\bin\Debug\WebDriver.Support.xml
+C:\source\AutomationTestSelenium\SeleniumFramework\obj\Debug\GiftCards.Online.Web.AutomationTest.dll
+C:\source\AutomationTestSelenium\SeleniumFramework\obj\Debug\GiftCards.Online.Web.AutomationTest.pdb
